@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Ritesh Pandey
 
-<!--
-**Ritesh2610/Ritesh2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer | React | Node.js | MongoDB | TypeScript
 
-Here are some ideas to get you started:
+I’m a passionate full-stack developer with experience building scalable web
+applications using the MERN stack. I enjoy writing clean, maintainable code
+and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Frontend: React, Next.js, Redux, MUI, Tailwind
+- Backend: Node.js, Express, REST APIs
+- Database: MongoDB, Mongoose
+- Tools: Git, GitHub, Docker, Vite
+- Testing: Jest, React Testing Library
+
+## 📌 Featured Projects
+- **Solar SCADA Dashboard** – Real-time monitoring & analytics
+- **Chat Application** – Socket.io, JWT authentication
+- **Task Manager API** – Node, Express, MongoDB
+
+## 📫 Contact Me
+- Email: ritesh****@gmail.com
+- LinkedIn: https://linkedin.com/in/xxxx
+- Portfolio: https://yourportfolio.dev
