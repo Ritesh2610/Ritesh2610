@@ -20,5 +20,5 @@ and solving real-world problems.
 
 ## 📫 Contact Me
 - Email: ritesh****@gmail.com
-- LinkedIn: https://linkedin.com/in/xxxx
-- Portfolio: https://yourportfolio.dev
+- LinkedIn: https://linkedin.com/in/xxxx](https://www.linkedin.com/in/riteshpandey07/
+- Portfolio: https://yourportfolio.dev](https://ritesh-pandey.vercel.app/
